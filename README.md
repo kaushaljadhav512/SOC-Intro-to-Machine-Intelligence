@@ -14,7 +14,7 @@ As the name suggests, Neural networks (also called as Artificial Neural Networks
 
 •  Perceptron makes a decision y (dependent variable) on the basis of an activation function.
 
-![This is an image](Images/2.png)
+<img src="Images/2.png" width="480" height = "260">
 
 In this example, we have three layers-
 
@@ -46,7 +46,7 @@ An activation function is a non-linear transformation that we do over the input 
 
 ## Forward and Backward Propagation
 
-![This is an image](Images/3.png)
+<img src="Images/3.png" width="480" height = "240">
 
 •	Forward Propagation: Signal goes from input layers towards output layers
 
@@ -89,7 +89,7 @@ A machine learning algorithm is said to have underfitting when it cannot capture
 
   •	L1 regularization—penalizing the absolute value of all the weights—turns out to be quite efficient for wide models.
 
-![This is an image](Images/4.png)
+<img src="Images/4.png" width="460" height = "280">
 
 ### 3. Dropout:
 
@@ -101,7 +101,7 @@ A machine learning algorithm is said to have underfitting when it cannot capture
 
 ## Convolutional Neural Network
 
-![This is an image](Images/5.png)
+<img src="Images/5.png" width="600" height = "280">
 
 •	To teach an algorithm how to recognise objects in images, we use a specific type of Artificial Neural Network: a Convolutional Neural Network (CNN). Their name stems from one of the most important operations in the network: convolution.
 
