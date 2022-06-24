@@ -151,6 +151,6 @@ OpenAI gym is an environment for developing and testing learning agents. It is f
 
 A project implemented in Q learning implemented using OpenAI gym has been uploaded in the projects folder.
 
-I have used the '''Taxi-V4''' gym environment to train a **self-driving taxi**
+I have used the ```Taxi-V3``` gym environment to train a **self-driving taxi**
 
 <img src="Images/6.png" width="480" height = "400">
