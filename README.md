@@ -101,6 +101,8 @@ A machine learning algorithm is said to have underfitting when it cannot capture
 
 ## Convolutional Neural Network
 
+![This is an image](Images/4.png)
+
 •	To teach an algorithm how to recognise objects in images, we use a specific type of Artificial Neural Network: a Convolutional Neural Network (CNN). Their name stems from one of the most important operations in the network: convolution.
 
 •	The word convolution refers to the filtering process that happens in this type of network. In literal terms, it is a mathematical operation that makes filtering possible
