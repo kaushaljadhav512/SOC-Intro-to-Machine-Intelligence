@@ -149,7 +149,7 @@ In a way, Reinforcement Learning is the science of making optimal decisions usin
 
 OpenAI gym is an environment for developing and testing learning agents. It is focused and best suited for reinforcement learning agent but does not restricts one to try other methods such as hard coded game solver / other deep learning approaches.
 
-A project implemented in Q learning implemented using OpenAI gym has been uploaded in the projects folder.
+A [project](../Projects/Taxi.ipynb) implemented in Q learning implemented using OpenAI gym has been uploaded in the projects folder.
 
 I have used the ```Taxi-V3``` gym environment to train a **self-driving taxi**
 
