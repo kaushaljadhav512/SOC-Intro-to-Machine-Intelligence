@@ -153,4 +153,4 @@ A project implemented in Q learning implemented using OpenAI gym has been upload
 
 I have used the '''Taxi-V4''' gym environment to train a **self-driving taxi**
 
-<img src="Images/6.png" width="480" height = "220">
+<img src="Images/6.png" width="480" height = "400">
